@@ -398,27 +398,7 @@ Rather than optimizing solely for model accuracy, the solution connects:
 
 The ultimate objective is to identify a retention strategy that maximizes **incremental net retained revenue** while respecting the company's retention budget.
 
----
 
-## Assignment Coverage
-
-| Requirement                   | Status |
-| ----------------------------- | ------ |
-| Problem framing               | ✅      |
-| Data generation / loading     | ✅      |
-| EDA & data quality            | ✅      |
-| Churn propensity model        | ✅      |
-| Model comparison              | ✅      |
-| AUC evaluation                | ✅      |
-| Risk-decile lift              | ✅      |
-| Feature influence             | ✅      |
-| Budget-constrained targeting  | ✅      |
-| Revenue impact estimation     | ✅      |
-| Conservative scenario         | ✅      |
-| Aggressive scenario           | ✅      |
-| Sensitivity analysis          | ✅      |
-| Rollout / A-B validation plan | ✅      |
-| Key assumptions & limitations | ✅      |
 
 ---
 

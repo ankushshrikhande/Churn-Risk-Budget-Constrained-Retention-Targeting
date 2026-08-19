@@ -40,6 +40,9 @@ pip install numpy pandas matplotlib scikit-learn xgboost
 The notebook is already saved with all outputs (tables, charts, printed metrics)
 pre-executed, so it can also be read directly without re-running.
 
+## Click here for 📊 [Interactive_EDA_Dashboard_Standalone](https://github.com/ankushshrikhande/Churn-Risk-Budget-Constrained-Retention-Targeting/blob/main/Churn%20EDA%20Dashboard%20Standalone.html)
+
+
 ## Tiers completed
 
 **All three tiers were completed:**
